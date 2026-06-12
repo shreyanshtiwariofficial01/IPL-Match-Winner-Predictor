@@ -201,7 +201,3 @@ git push -u origin main
 - Automate Power BI refresh via scheduled pipeline
 
 ---
-
-## 👤 Author
-**Shreyansh** — AI Engineer | Data Scientist | Full-Stack Developer
-Founder & Host, *Figuring Out Media* (FOM)
