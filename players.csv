@@ -1,0 +1,151 @@
+player_id,player_name,team,role,batting_style,bowling_style,nationality
+1,Mum_Player_1,Mumbai Indians,Batsman,Right Handed,-,India
+2,Mum_Player_2,Mumbai Indians,All-Rounder,Right Handed,Left-arm fast,West Indies
+3,Mum_Player_3,Mumbai Indians,Bowler,Right Handed,Right-arm fast,England
+4,Mum_Player_4,Mumbai Indians,Wicket-Keeper,Right Handed,Right-arm fast,Australia
+5,Mum_Player_5,Mumbai Indians,Batsman,Right Handed,-,India
+6,Mum_Player_6,Mumbai Indians,Bowler,Right Handed,Left-arm fast,India
+7,Mum_Player_7,Mumbai Indians,Wicket-Keeper,Right Handed,Left-arm spin,India
+8,Mum_Player_8,Mumbai Indians,All-Rounder,Right Handed,Left-arm fast,New Zealand
+9,Mum_Player_9,Mumbai Indians,Wicket-Keeper,Left Handed,Right-arm spin,Australia
+10,Mum_Player_10,Mumbai Indians,Bowler,Right Handed,Right-arm spin,England
+11,Mum_Player_11,Mumbai Indians,Batsman,Right Handed,-,India
+12,Mum_Player_12,Mumbai Indians,Wicket-Keeper,Right Handed,Right-arm spin,Afghanistan
+13,Mum_Player_13,Mumbai Indians,All-Rounder,Left Handed,Right-arm fast,New Zealand
+14,Mum_Player_14,Mumbai Indians,Wicket-Keeper,Right Handed,Left-arm spin,India
+15,Mum_Player_15,Mumbai Indians,Batsman,Left Handed,-,India
+16,Che_Player_1,Chennai Super Kings,All-Rounder,Right Handed,Right-arm fast,India
+17,Che_Player_2,Chennai Super Kings,Batsman,Right Handed,-,India
+18,Che_Player_3,Chennai Super Kings,All-Rounder,Right Handed,Left-arm fast,India
+19,Che_Player_4,Chennai Super Kings,Batsman,Left Handed,-,India
+20,Che_Player_5,Chennai Super Kings,All-Rounder,Left Handed,Right-arm spin,India
+21,Che_Player_6,Chennai Super Kings,Bowler,Left Handed,Right-arm spin,Australia
+22,Che_Player_7,Chennai Super Kings,Bowler,Left Handed,Right-arm fast,India
+23,Che_Player_8,Chennai Super Kings,Bowler,Right Handed,Left-arm fast,India
+24,Che_Player_9,Chennai Super Kings,Wicket-Keeper,Left Handed,Right-arm spin,India
+25,Che_Player_10,Chennai Super Kings,Bowler,Left Handed,Right-arm fast,India
+26,Che_Player_11,Chennai Super Kings,Bowler,Right Handed,Right-arm spin,South Africa
+27,Che_Player_12,Chennai Super Kings,Wicket-Keeper,Left Handed,Right-arm fast,India
+28,Che_Player_13,Chennai Super Kings,Bowler,Left Handed,Left-arm fast,India
+29,Che_Player_14,Chennai Super Kings,Wicket-Keeper,Left Handed,Left-arm spin,Australia
+30,Che_Player_15,Chennai Super Kings,Bowler,Left Handed,Left-arm fast,India
+31,Roy_Player_1,Royal Challengers Bangalore,Bowler,Left Handed,Left-arm spin,Australia
+32,Roy_Player_2,Royal Challengers Bangalore,Wicket-Keeper,Left Handed,Left-arm fast,India
+33,Roy_Player_3,Royal Challengers Bangalore,Bowler,Left Handed,Right-arm fast,India
+34,Roy_Player_4,Royal Challengers Bangalore,Batsman,Right Handed,-,West Indies
+35,Roy_Player_5,Royal Challengers Bangalore,Bowler,Right Handed,Left-arm spin,Afghanistan
+36,Roy_Player_6,Royal Challengers Bangalore,Batsman,Left Handed,-,South Africa
+37,Roy_Player_7,Royal Challengers Bangalore,Wicket-Keeper,Left Handed,Right-arm spin,India
+38,Roy_Player_8,Royal Challengers Bangalore,Batsman,Right Handed,-,India
+39,Roy_Player_9,Royal Challengers Bangalore,All-Rounder,Left Handed,Right-arm fast,England
+40,Roy_Player_10,Royal Challengers Bangalore,All-Rounder,Left Handed,Left-arm fast,India
+41,Roy_Player_11,Royal Challengers Bangalore,Wicket-Keeper,Right Handed,Right-arm spin,India
+42,Roy_Player_12,Royal Challengers Bangalore,Bowler,Right Handed,Right-arm spin,India
+43,Roy_Player_13,Royal Challengers Bangalore,Bowler,Right Handed,Right-arm spin,India
+44,Roy_Player_14,Royal Challengers Bangalore,Bowler,Right Handed,Right-arm spin,West Indies
+45,Roy_Player_15,Royal Challengers Bangalore,Wicket-Keeper,Right Handed,Right-arm fast,India
+46,Kol_Player_1,Kolkata Knight Riders,All-Rounder,Left Handed,Left-arm fast,England
+47,Kol_Player_2,Kolkata Knight Riders,Batsman,Right Handed,-,India
+48,Kol_Player_3,Kolkata Knight Riders,Batsman,Right Handed,-,India
+49,Kol_Player_4,Kolkata Knight Riders,Wicket-Keeper,Right Handed,Left-arm fast,India
+50,Kol_Player_5,Kolkata Knight Riders,Bowler,Left Handed,Left-arm fast,India
+51,Kol_Player_6,Kolkata Knight Riders,All-Rounder,Left Handed,Left-arm fast,Afghanistan
+52,Kol_Player_7,Kolkata Knight Riders,Bowler,Left Handed,Left-arm spin,South Africa
+53,Kol_Player_8,Kolkata Knight Riders,All-Rounder,Left Handed,Left-arm spin,West Indies
+54,Kol_Player_9,Kolkata Knight Riders,Batsman,Right Handed,-,New Zealand
+55,Kol_Player_10,Kolkata Knight Riders,Bowler,Right Handed,Right-arm spin,Australia
+56,Kol_Player_11,Kolkata Knight Riders,Batsman,Right Handed,-,West Indies
+57,Kol_Player_12,Kolkata Knight Riders,Bowler,Right Handed,Right-arm fast,India
+58,Kol_Player_13,Kolkata Knight Riders,Batsman,Right Handed,-,India
+59,Kol_Player_14,Kolkata Knight Riders,Batsman,Right Handed,-,India
+60,Kol_Player_15,Kolkata Knight Riders,All-Rounder,Right Handed,Left-arm fast,India
+61,Del_Player_1,Delhi Capitals,All-Rounder,Left Handed,Left-arm fast,India
+62,Del_Player_2,Delhi Capitals,Bowler,Left Handed,Left-arm fast,India
+63,Del_Player_3,Delhi Capitals,Wicket-Keeper,Left Handed,Left-arm fast,South Africa
+64,Del_Player_4,Delhi Capitals,Batsman,Right Handed,-,India
+65,Del_Player_5,Delhi Capitals,Wicket-Keeper,Left Handed,Left-arm spin,India
+66,Del_Player_6,Delhi Capitals,Wicket-Keeper,Left Handed,Right-arm fast,India
+67,Del_Player_7,Delhi Capitals,Batsman,Right Handed,-,India
+68,Del_Player_8,Delhi Capitals,Wicket-Keeper,Left Handed,Right-arm fast,South Africa
+69,Del_Player_9,Delhi Capitals,Bowler,Right Handed,Left-arm fast,India
+70,Del_Player_10,Delhi Capitals,Wicket-Keeper,Right Handed,Left-arm spin,Afghanistan
+71,Del_Player_11,Delhi Capitals,Bowler,Left Handed,Left-arm spin,South Africa
+72,Del_Player_12,Delhi Capitals,Bowler,Right Handed,Left-arm spin,India
+73,Del_Player_13,Delhi Capitals,Batsman,Right Handed,-,India
+74,Del_Player_14,Delhi Capitals,Batsman,Right Handed,-,South Africa
+75,Del_Player_15,Delhi Capitals,Bowler,Right Handed,Left-arm spin,England
+76,Sun_Player_1,Sunrisers Hyderabad,Wicket-Keeper,Left Handed,Left-arm fast,England
+77,Sun_Player_2,Sunrisers Hyderabad,Wicket-Keeper,Right Handed,Left-arm fast,South Africa
+78,Sun_Player_3,Sunrisers Hyderabad,Wicket-Keeper,Right Handed,Left-arm spin,India
+79,Sun_Player_4,Sunrisers Hyderabad,All-Rounder,Left Handed,Right-arm spin,India
+80,Sun_Player_5,Sunrisers Hyderabad,Wicket-Keeper,Left Handed,Left-arm fast,India
+81,Sun_Player_6,Sunrisers Hyderabad,Bowler,Left Handed,Left-arm fast,New Zealand
+82,Sun_Player_7,Sunrisers Hyderabad,Batsman,Right Handed,-,Australia
+83,Sun_Player_8,Sunrisers Hyderabad,All-Rounder,Right Handed,Right-arm fast,India
+84,Sun_Player_9,Sunrisers Hyderabad,Wicket-Keeper,Right Handed,Right-arm fast,India
+85,Sun_Player_10,Sunrisers Hyderabad,Batsman,Right Handed,-,India
+86,Sun_Player_11,Sunrisers Hyderabad,Batsman,Right Handed,-,India
+87,Sun_Player_12,Sunrisers Hyderabad,Bowler,Left Handed,Right-arm fast,England
+88,Sun_Player_13,Sunrisers Hyderabad,Bowler,Right Handed,Right-arm fast,Australia
+89,Sun_Player_14,Sunrisers Hyderabad,Wicket-Keeper,Left Handed,Right-arm spin,New Zealand
+90,Sun_Player_15,Sunrisers Hyderabad,Bowler,Left Handed,Left-arm fast,India
+91,Pun_Player_1,Punjab Kings,All-Rounder,Left Handed,Left-arm fast,India
+92,Pun_Player_2,Punjab Kings,All-Rounder,Left Handed,Right-arm spin,England
+93,Pun_Player_3,Punjab Kings,Batsman,Right Handed,-,South Africa
+94,Pun_Player_4,Punjab Kings,Wicket-Keeper,Right Handed,Right-arm fast,Australia
+95,Pun_Player_5,Punjab Kings,Bowler,Left Handed,Left-arm fast,South Africa
+96,Pun_Player_6,Punjab Kings,All-Rounder,Right Handed,Left-arm fast,India
+97,Pun_Player_7,Punjab Kings,All-Rounder,Left Handed,Left-arm fast,India
+98,Pun_Player_8,Punjab Kings,Wicket-Keeper,Left Handed,Right-arm fast,India
+99,Pun_Player_9,Punjab Kings,All-Rounder,Right Handed,Left-arm fast,India
+100,Pun_Player_10,Punjab Kings,All-Rounder,Right Handed,Right-arm fast,India
+101,Pun_Player_11,Punjab Kings,Bowler,Left Handed,Right-arm spin,India
+102,Pun_Player_12,Punjab Kings,Bowler,Left Handed,Left-arm fast,Australia
+103,Pun_Player_13,Punjab Kings,All-Rounder,Left Handed,Right-arm spin,India
+104,Pun_Player_14,Punjab Kings,Batsman,Right Handed,-,India
+105,Pun_Player_15,Punjab Kings,Wicket-Keeper,Left Handed,Right-arm fast,West Indies
+106,Raj_Player_1,Rajasthan Royals,Batsman,Left Handed,-,India
+107,Raj_Player_2,Rajasthan Royals,Bowler,Left Handed,Left-arm fast,India
+108,Raj_Player_3,Rajasthan Royals,Wicket-Keeper,Left Handed,Right-arm fast,South Africa
+109,Raj_Player_4,Rajasthan Royals,Batsman,Right Handed,-,India
+110,Raj_Player_5,Rajasthan Royals,Bowler,Right Handed,Right-arm spin,India
+111,Raj_Player_6,Rajasthan Royals,Bowler,Left Handed,Left-arm fast,India
+112,Raj_Player_7,Rajasthan Royals,Batsman,Left Handed,-,India
+113,Raj_Player_8,Rajasthan Royals,All-Rounder,Right Handed,Right-arm spin,West Indies
+114,Raj_Player_9,Rajasthan Royals,Bowler,Right Handed,Right-arm fast,South Africa
+115,Raj_Player_10,Rajasthan Royals,All-Rounder,Left Handed,Left-arm fast,Australia
+116,Raj_Player_11,Rajasthan Royals,Bowler,Right Handed,Left-arm fast,New Zealand
+117,Raj_Player_12,Rajasthan Royals,Wicket-Keeper,Right Handed,Left-arm fast,South Africa
+118,Raj_Player_13,Rajasthan Royals,All-Rounder,Left Handed,Left-arm fast,India
+119,Raj_Player_14,Rajasthan Royals,All-Rounder,Right Handed,Right-arm fast,New Zealand
+120,Raj_Player_15,Rajasthan Royals,Wicket-Keeper,Right Handed,Left-arm spin,India
+121,Guj_Player_1,Gujarat Titans,Bowler,Right Handed,Left-arm spin,South Africa
+122,Guj_Player_2,Gujarat Titans,All-Rounder,Left Handed,Left-arm fast,New Zealand
+123,Guj_Player_3,Gujarat Titans,Bowler,Right Handed,Left-arm fast,India
+124,Guj_Player_4,Gujarat Titans,Wicket-Keeper,Left Handed,Right-arm spin,India
+125,Guj_Player_5,Gujarat Titans,Batsman,Left Handed,-,India
+126,Guj_Player_6,Gujarat Titans,All-Rounder,Left Handed,Right-arm spin,India
+127,Guj_Player_7,Gujarat Titans,Batsman,Right Handed,-,South Africa
+128,Guj_Player_8,Gujarat Titans,All-Rounder,Right Handed,Right-arm spin,New Zealand
+129,Guj_Player_9,Gujarat Titans,Batsman,Right Handed,-,India
+130,Guj_Player_10,Gujarat Titans,Wicket-Keeper,Left Handed,Right-arm spin,India
+131,Guj_Player_11,Gujarat Titans,Wicket-Keeper,Right Handed,Left-arm spin,India
+132,Guj_Player_12,Gujarat Titans,Bowler,Left Handed,Right-arm fast,India
+133,Guj_Player_13,Gujarat Titans,Wicket-Keeper,Right Handed,Left-arm fast,India
+134,Guj_Player_14,Gujarat Titans,All-Rounder,Left Handed,Right-arm fast,India
+135,Guj_Player_15,Gujarat Titans,All-Rounder,Left Handed,Right-arm fast,West Indies
+136,Luc_Player_1,Lucknow Super Giants,All-Rounder,Left Handed,Left-arm spin,India
+137,Luc_Player_2,Lucknow Super Giants,All-Rounder,Left Handed,Right-arm spin,India
+138,Luc_Player_3,Lucknow Super Giants,Bowler,Right Handed,Left-arm spin,England
+139,Luc_Player_4,Lucknow Super Giants,Wicket-Keeper,Right Handed,Right-arm spin,India
+140,Luc_Player_5,Lucknow Super Giants,Wicket-Keeper,Right Handed,Right-arm spin,Afghanistan
+141,Luc_Player_6,Lucknow Super Giants,All-Rounder,Right Handed,Left-arm spin,Afghanistan
+142,Luc_Player_7,Lucknow Super Giants,All-Rounder,Left Handed,Left-arm spin,India
+143,Luc_Player_8,Lucknow Super Giants,Wicket-Keeper,Right Handed,Left-arm spin,India
+144,Luc_Player_9,Lucknow Super Giants,Bowler,Right Handed,Right-arm spin,India
+145,Luc_Player_10,Lucknow Super Giants,All-Rounder,Right Handed,Left-arm fast,India
+146,Luc_Player_11,Lucknow Super Giants,All-Rounder,Right Handed,Left-arm fast,India
+147,Luc_Player_12,Lucknow Super Giants,Bowler,Right Handed,Right-arm fast,Australia
+148,Luc_Player_13,Lucknow Super Giants,Bowler,Left Handed,Right-arm fast,India
+149,Luc_Player_14,Lucknow Super Giants,Wicket-Keeper,Left Handed,Left-arm fast,India
+150,Luc_Player_15,Lucknow Super Giants,Wicket-Keeper,Left Handed,Left-arm spin,India
